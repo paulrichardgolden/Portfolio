@@ -17,6 +17,13 @@
 
 }
 
+.navbar{
+	font-size:1.25rem;
+}
+
+.navbar.navbar-brand{
+	font-size:1.5rem;
+}
 
 .hero-text {
     text-align: center;
