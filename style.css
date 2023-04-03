@@ -9,15 +9,11 @@
 /* text css above hero image*/
 .hero_title {
     font-size: 6rem;
-	color: white;
-	-webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: black;
+	color: black;
 }
 .hero_desc {
-    font-size: 2.8rem;
-	color: white;
-	-webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: black;
+    font-size: 3rem;
+	color: black;
 
 }
 
